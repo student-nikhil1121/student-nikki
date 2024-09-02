@@ -1,2 +1,3 @@
 # student-nikki
-this is my first git repo  &lt;br>
+this is my first git repo  <br>
+Author-Nikhil Kumar Sharma
